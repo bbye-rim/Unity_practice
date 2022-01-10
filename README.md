@@ -1,1 +1,2 @@
-# Unity_practice
+## GameObject
+This is project to practice and understand GameObject. Materials, scenes, sounds, textures etc...
